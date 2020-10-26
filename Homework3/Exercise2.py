@@ -10,3 +10,4 @@ def main():
     print("The temperature is", fahrenheit, "degrees Fahrenheit.")
 main ()
 
+input("Press the <Enter> key to quit.")
